@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Данил Русских](https://up.htmlacademy.ru/adaptive/18/user/1009597).
-* Наставник: `Денис Власов`.
+* Наставник: [Денис Власов](https://htmlacademy.ru/profile/amaringo)
 
 ---
 
